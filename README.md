@@ -5,7 +5,7 @@
 # 用法
 
 ```
-docker run -d -p 5000:5000 --name idmask hellozjf/idmask:1.0.0
+docker run -d -p 5000:5000 --name idmask hellozjf/tensorflow-param-transformer:1.0.0
 ```
 
 
